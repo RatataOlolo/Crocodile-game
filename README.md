@@ -1,5 +1,5 @@
 # Crocodile-game
-Game "Crocodil"
+Game "Crocodile"
 It's a simple game for guessing words. It has a set of words and a timer (180 sec). In the project was used Python 3.10 and PyQt5. Enjoy :)
 
 Screens from project:
